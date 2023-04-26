@@ -50,5 +50,5 @@ section#sociais img{
 section#sociais img:hover{
     transition-duration: 1s;
     border: 1px solid #00e5ff;
-    box-shadow: 5px 5px 5px #000000;
+    box-shadow: 5px 5px 5px #000000;transform: translate(-8px, -8px);
 }
